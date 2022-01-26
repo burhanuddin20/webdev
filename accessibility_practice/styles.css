@@ -1,0 +1,38 @@
+
+body {background-color:#7e7171;
+color:#050709;}
+
+.site-header{
+
+    text-align: center;
+    
+}
+
+.site-header h2{
+
+    text-align: center;
+    padding: 3%;
+    
+}
+
+
+
+.page-title{
+    
+    padding-top: 20%;
+    text-align: center;
+}
+
+.article-text{
+
+    padding-top: 2%;
+
+}
+
+.footer{
+    position: absolute;
+    bottom: 1%;
+}
+
+
+
