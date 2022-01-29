@@ -1,0 +1,22 @@
+form {
+    
+    position: absolute;
+    top: 25%;
+    text-align: center;
+    color: blue;
+  }
+
+  #btn{
+    position: absolute;
+    top: 35%;
+    left: 8%;
+    
+    color: blue;
+
+  }
+
+  body
+  {
+      text-align: center;
+      font-family:Georgia, 'Times New Roman', Times, serif
+  }
